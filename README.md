@@ -1,6 +1,6 @@
 # Conjugate_Gradients_2024_EUMaster4HPC_Challenge
 
-# Conjugate gradient method
+# Conjugate gradient method using OpenMP
 
 ## Steps for running the code on MeluXina
 
